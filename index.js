@@ -24,5 +24,3 @@ if (operator === 'addition') {
 var el = document.getElementById('blackboard');
 el.innerHTML = msg;
 
-
-
